@@ -46,6 +46,7 @@ __pycache__
 portfolio_value.csv
 /notebooks
 /data
+/gateway_files
 debug.log
 /installation/docker-commands/hummingbot_files
 

@@ -42,4 +42,4 @@ services:
      - "./gateway_files/db:/home/gateway/db"
      - "./certs:/home/gateway/certs"
    environment:
-     - GATEWAY_PASSPHRASE=a
+     - GATEWAY_PASSPHRASE=M6ppx980411
